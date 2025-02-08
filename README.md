@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software (7º período) na Universidade Estácio 
 
 ## 🚀 Habilidades
 
-Backend: Java, Spring Boot (MVC, REST API, JPA, Security), MySQL
+Backend: Java, Spring Boot e MySQL
 
 Frontend: React (Básico - Componentes, Hooks, Consumo de API)
 
