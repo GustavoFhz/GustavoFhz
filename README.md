@@ -8,7 +8,7 @@ Sou estudante de Engenharia de Software (7º período) na Universidade Estácio 
 
 Backend: Java, Spring Boot e MySQL
 
-Frontend: React
+Frontend: HTML/CSS/Javascript
 
 ## 📫 Contato
 
