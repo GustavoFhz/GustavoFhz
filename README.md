@@ -2,11 +2,11 @@
 
 ## 💼 Sobre mim
 
-Sou estudante de Engenharia de Software (7º período) na Universidade Estácio de Sá, focado em desenvolvimento backend com Java e Spring Boot. 
+Sou estudante de Engenharia de Software (8º período) na Universidade Estácio de Sá, focado em desenvolvimento backend com C# e .Net. 
 
 ## 🚀 Habilidades
 
-Backend: Java, Spring Boot e MySQL
+Backend: C#, .Net e MySQL
 
 Frontend: HTML/CSS/Javascript
 
