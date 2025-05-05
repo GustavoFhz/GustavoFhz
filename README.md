@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software (8º período) na Universidade Estácio 
 
 ## 🚀 Habilidades
 
-Backend: C#, .Net e MySQL
+Backend: C#, .Net e SQL Server
 
 Frontend: HTML/CSS/Javascript
 
