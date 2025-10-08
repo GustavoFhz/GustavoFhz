@@ -6,7 +6,7 @@
 
 ## 💼 Sobre mim
 
-Sou estudante de Engenharia de Software (8º período) na Universidade Estácio de Sá, focado em desenvolvimento backend com **C#** e **.NET**.  
+Sou formado em Engenharia de Software na Universidade Estácio de Sá, focado em desenvolvimento backend com **C#** e **.NET**.
 Apaixonado por criar soluções escaláveis e aprender novas tecnologias, estou em busca de oportunidades para aplicar e expandir meus conhecimentos.
 
 ## 🚀 Habilidades
