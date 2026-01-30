@@ -1,7 +1,7 @@
 <div align="center">
 👋 Olá! Eu sou Gustavo de Jesus da Silva
 
-💻 Engenheiro de Software | .NET Developer
+💻 Engenheiro de Software | .NET Developer | Angular
 
 
 
@@ -9,12 +9,12 @@
 </div>
 🧑‍💻 Sobre mim
 
-Sou Engenheiro de Software, formado pela Universidade Estácio de Sá, com foco em desenvolvimento backend utilizando C# e .NET.
+Sou Engenheiro de Software, formado pela Universidade Estácio de Sá, com foco em desenvolvimento backend utilizando C# , .NET e Angular.
 
 Atuo na criação de APIs REST, CRUDs, integração com SQL Server e organização de projetos seguindo boas práticas.
 Tenho também experiência com Angular, ASP.NET MVC e Blazor, permitindo a construção de aplicações completas com integração frontend e backend.
 
-🎯 Objetivo: atuar como Desenvolvedor .NET, evoluindo tecnicamente e contribuindo com soluções escaláveis e bem estruturadas.
+🎯 Objetivo: atuar como Desenvolvedor full stack, evoluindo tecnicamente e contribuindo com soluções escaláveis e bem estruturadas.
 
 🚀 Tecnologias & Ferramentas
 ⚙️ Backend
